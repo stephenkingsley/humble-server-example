@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "humble-server": "^0.1.2"
+    "humble-server": "^0.2.2"
   }
 }
